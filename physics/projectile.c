@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include <malloc.h>
+// #include <malloc.h>
 
 //******************************************************
 //  Main method. It initializes a simple projectile
